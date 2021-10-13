@@ -1,4 +1,4 @@
-
+-- EJERCICIO 1 DEL MODULO 2
 CREATE  TABLE profesor
 (
 	id int not null primary key,
