@@ -8,7 +8,7 @@ CREATE  TABLE profesor
 	salario FLOAT
 
 
-)
+);
 
 CREATE TABLE curso (
 
